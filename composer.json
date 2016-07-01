@@ -1,7 +1,7 @@
 {
     "name": "manifestcreative/lab-gmaps",
     "description": "Google Maps experimental playground",
-    "license": "GPL-2.0",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "Philip Downer",

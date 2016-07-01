@@ -4,7 +4,7 @@
   "description": "Experimental playground for Google Maps",
   "main": "index.php"
   "author": "Philip Downer",
-  "license": "GPL-2.0",
+  "license": "GPL-3.0",
   "repository": "github:manifestcreative/lab-gmaps",
   "devDependencies": {
     "grunt": "~0.4.5",
